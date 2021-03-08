@@ -1,0 +1,4 @@
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+kokbael@DESKTOP-CLDSDLV:/mnt/c/Users/82108$
